@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">latihan_5</string>
+    <string name="lanjutkan">lanjutkan</string>
+    <string name="hasil">hasil</string>
+    <string name="keliling">keliling</string>
+    <string name="titik2">:</string>
+    <string name="menghitung_luas_keliling_dan_volume_bangun_datar">menghitung luas keliling dan volume bangun datar</string>
+    <string name="masukkan_panjang">masukkan panjang</string>
+    <string name="masukkan_lebar">masukkan lebar</string>
+    <string name="todo">TODO</string>
+    <string name="hitung_luas">hitung luas</string>
+    <string name="hitung_keliling">hitung keliling</string>
+    <string name="masukkan_jari_jari">masukkan jari-jari</string>
+</resources>
